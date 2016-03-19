@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=POWER Pin=SWmotor-1
-Added Pin To Net: NetName=VC11.1 Pin=SWmotor-1
-Added Room: Name=cannonrobot
