@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=VC6 Pin=Steer5-2
+Added Pin To Net: NetName=GND Pin=Steer5-3
+Added Room: Name=cannonrobot
