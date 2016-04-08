@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=VC11.1 Pin=Power1-1
+Removed Pin From Net: NetName=A10 Pin=S1-1
+Removed Pin From Net: NetName=VC6 Pin=S1-2
+Removed Pin From Net: NetName=GND Pin=S1-4
+Removed Pin From Net: NetName=VC3.3 Pin=WM8978-2
+Removed Pin From Net: NetName=GND Pin=WM8978-3
+Removed Pin From Net: NetName=B12 Pin=WM8978-4
+Removed Pin From Net: NetName=B13 Pin=WM8978-5
+Removed Pin From Net: NetName=B14 Pin=WM8978-6
+Removed Pin From Net: NetName=B15 Pin=WM8978-7
+Removed Pin From Net: NetName=C6 Pin=WM8978-8
+Removed Pin From Net: NetName=B6 Pin=WM8978-9
+Removed Pin From Net: NetName=B7 Pin=WM8978-10
+Removed Member From Class: ClassName=cannonrobot Member=S1
+Removed Member From Class: ClassName=cannonrobot Member=S1
+Removed Member From Class: ClassName=cannonrobot Member=WM8978
+Removed Member From Class: ClassName=cannonrobot Member=WM8978
+Added Component: Designator=I2S&I2C(HDR2X5)
+Added Component: Designator=SWsteer(PCBComponent_1)
+Added Component: Designator=TB6612N(HDR2X12)
+Added Component: Designator=VC(HDR1X3)
+Added Pin To Net: NetName=VC3.3 Pin=I2S&I2C-1
+Added Pin To Net: NetName=GND Pin=I2S&I2C-2
+Added Pin To Net: NetName=B12 Pin=I2S&I2C-3
+Added Pin To Net: NetName=C6 Pin=I2S&I2C-4
+Added Pin To Net: NetName=B14 Pin=I2S&I2C-5
+Added Pin To Net: NetName=B13 Pin=I2S&I2C-6
+Added Pin To Net: NetName=A10 Pin=I2S&I2C-7
+Added Pin To Net: NetName=B15 Pin=I2S&I2C-8
+Added Pin To Net: NetName=B6 Pin=I2S&I2C-9
+Added Pin To Net: NetName=B7 Pin=I2S&I2C-10
+Added Pin To Net: NetName=VC11.1 Pin=SWsteer-1
+Added Pin To Net: NetName=AO1 Pin=TB6612N-1
+Added Pin To Net: NetName=VM Pin=TB6612N-2
+Added Pin To Net: NetName=AO1 Pin=TB6612N-3
+Added Pin To Net: NetName=B8 Pin=TB6612N-4
+Added Pin To Net: NetName=GND Pin=TB6612N-5
+Added Pin To Net: NetName=C13 Pin=TB6612N-6
+Added Pin To Net: NetName=GND Pin=TB6612N-7
+Added Pin To Net: NetName=!C13 Pin=TB6612N-8
+Added Pin To Net: NetName=AO2 Pin=TB6612N-9
+Added Pin To Net: NetName=VC3.3 Pin=TB6612N-10
+Added Pin To Net: NetName=AO2 Pin=TB6612N-11
+Added Pin To Net: NetName=VC3.3 Pin=TB6612N-12
+Added Pin To Net: NetName=BO2 Pin=TB6612N-13
+Added Pin To Net: NetName=GND Pin=TB6612N-14
+Added Pin To Net: NetName=BO2 Pin=TB6612N-15
+Added Pin To Net: NetName=!C5 Pin=TB6612N-16
+Added Pin To Net: NetName=GND Pin=TB6612N-17
+Added Pin To Net: NetName=C5 Pin=TB6612N-18
+Added Pin To Net: NetName=GND Pin=TB6612N-19
+Added Pin To Net: NetName=B9 Pin=TB6612N-20
+Added Pin To Net: NetName=BO1 Pin=TB6612N-21
+Added Pin To Net: NetName=VM Pin=TB6612N-22
+Added Pin To Net: NetName=BO1 Pin=TB6612N-23
+Added Pin To Net: NetName=VM Pin=TB6612N-24
+Added Pin To Net: NetName=VC5 Pin=VC-1
+Added Pin To Net: NetName=VC6 Pin=VC-2
+Added Pin To Net: NetName=GND Pin=VC-3
+Added Pin To Net: NetName=STEER Pin=Power1-1
+Added Pin To Net: NetName=STEER Pin=SWsteer-2
+Added Net: Name=STEER
+Added Member To Class: ClassName=cannonrobot Member=Component I2S&I2C Header 5X2
+Added Member To Class: ClassName=cannonrobot Member=Component SWsteer SW-SPST
+Added Member To Class: ClassName=cannonrobot Member=Component TB6612N Header 12X2
+Added Member To Class: ClassName=cannonrobot Member=Component VC Header 3
+Added Room: Name=cannonrobot

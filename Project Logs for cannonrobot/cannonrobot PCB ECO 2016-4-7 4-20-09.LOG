@@ -1,0 +1,13 @@
+Added Component: Designator=SWmotor(PCBComponent_1)
+Added Component: Designator=SWpower(PCBComponent_1)
+Added Component: Designator=SWsteer(PCBComponent_1)
+Added Pin To Net: NetName=VC11.1 Pin=SWmotor-1
+Added Pin To Net: NetName=VM Pin=SWmotor-2
+Added Pin To Net: NetName=POWER Pin=SWpower-1
+Added Pin To Net: NetName=VC11.1 Pin=SWpower-2
+Added Pin To Net: NetName=VC11.1 Pin=SWsteer-1
+Added Pin To Net: NetName=STEER Pin=SWsteer-2
+Added Member To Class: ClassName=cannonrobot Member=Component SWmotor SW-SPST
+Added Member To Class: ClassName=cannonrobot Member=Component SWpower SW-SPST
+Added Member To Class: ClassName=cannonrobot Member=Component SWsteer SW-SPST
+Added Room: Name=cannonrobot

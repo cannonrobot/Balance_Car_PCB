@@ -1,0 +1,15 @@
+Added Component: Designator=C1(CAPC2012L)
+Added Component: Designator=C2(CAPC3216L)
+Added Component: Designator=C3(CAPC3216L)
+Added Pin To Net: NetName=VM Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VC3.3 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VM Pin=C3-2
+Added Pin To Net: NetName=VM Pin=Power1-1
+Change Net Name : Old Net Name=VM New Net Name=VM&STEER
+Added Member To Class: ClassName=cannonrobot Member=Component C1 Cap Pol3
+Added Member To Class: ClassName=cannonrobot Member=Component C2 Cap Semi
+Added Member To Class: ClassName=cannonrobot Member=Component C3 Cap Semi
+Added Room: Name=cannonrobot

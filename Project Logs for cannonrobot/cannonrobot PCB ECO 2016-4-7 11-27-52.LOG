@@ -1,0 +1,27 @@
+Added Component: Designator=TB6612N(SSOP24 - duplicate)
+Added Pin To Net: NetName=AO1 Pin=TB6612N-1
+Added Pin To Net: NetName=VM&STEER Pin=TB6612N-2
+Added Pin To Net: NetName=AO1 Pin=TB6612N-3
+Added Pin To Net: NetName=B8 Pin=TB6612N-4
+Added Pin To Net: NetName=GND Pin=TB6612N-5
+Added Pin To Net: NetName=C13 Pin=TB6612N-6
+Added Pin To Net: NetName=GND Pin=TB6612N-7
+Added Pin To Net: NetName=!C13 Pin=TB6612N-8
+Added Pin To Net: NetName=AO2 Pin=TB6612N-9
+Added Pin To Net: NetName=VC3.3 Pin=TB6612N-10
+Added Pin To Net: NetName=AO2 Pin=TB6612N-11
+Added Pin To Net: NetName=VC3.3 Pin=TB6612N-12
+Added Pin To Net: NetName=BO2 Pin=TB6612N-13
+Added Pin To Net: NetName=GND Pin=TB6612N-14
+Added Pin To Net: NetName=BO2 Pin=TB6612N-15
+Added Pin To Net: NetName=!C5 Pin=TB6612N-16
+Added Pin To Net: NetName=GND Pin=TB6612N-17
+Added Pin To Net: NetName=C5 Pin=TB6612N-18
+Added Pin To Net: NetName=GND Pin=TB6612N-19
+Added Pin To Net: NetName=B9 Pin=TB6612N-20
+Added Pin To Net: NetName=BO1 Pin=TB6612N-21
+Added Pin To Net: NetName=VM&STEER Pin=TB6612N-22
+Added Pin To Net: NetName=BO1 Pin=TB6612N-23
+Added Pin To Net: NetName=VM&STEER Pin=TB6612N-24
+Added Member To Class: ClassName=cannonrobot Member=Component TB6612N Header 12X2
+Added Room: Name=cannonrobot
