@@ -1,9 +1,0 @@
-Added Component: Designator=SN74LVC2G04(PCBComponent_1)
-Added Pin To Net: NetName=C13 Pin=SN74LVC2G04-1
-Added Pin To Net: NetName=!C13 Pin=SN74LVC2G04-2
-Added Pin To Net: NetName=GND Pin=SN74LVC2G04-3
-Added Pin To Net: NetName=VC3.3 Pin=SN74LVC2G04-4
-Added Pin To Net: NetName=C5 Pin=SN74LVC2G04-5
-Added Pin To Net: NetName=!C5 Pin=SN74LVC2G04-6
-Added Member To Class: ClassName=cannonrobot Member=Component SN74LVC2G04 Header 3X2
-Added Room: Name=cannonrobot
